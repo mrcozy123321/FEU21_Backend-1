@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-
-namespace WebApi.Models.Entities
+﻿namespace WebApi.Models.Entities
 {
     public class StatusEntity
     {
