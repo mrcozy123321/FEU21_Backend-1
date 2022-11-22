@@ -7,6 +7,6 @@
         public string Subject { get; set; } = null!;
         public string Message { get; set; } = null!;
         public DateTime Created { get; set; } = DateTime.Now;
-        public int StatusId { get; set; }
+        public string StatusName { get; set; }
     }
 }

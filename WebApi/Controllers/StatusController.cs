@@ -22,7 +22,7 @@ namespace WebApi.Controllers
         {
             var statusEntity = new StatusEntity
             {
-                Name = req.Name,
+                Name = req.Name
             };
 
             _context.Add(statusEntity);
